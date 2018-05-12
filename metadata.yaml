@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42097'
     url: http://www.gutenberg.org/2009/agents/42097
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43269#The-Forest-of-Mystery
 gutenberg_issued: '2013-07-21'
 gutenberg_type: Text
 identifiers:
